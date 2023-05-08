@@ -45,7 +45,10 @@
   <h4>⭐ Here are some projects that I've worked on:</h4>
   <ul>
     <li>
-      <a href="https://dantevicenzo.github.io/oracle-challenge-decodificador/">Text Decoder</a>
+      <a href="https://dantevicenzo.github.io/oracle-challenge-decodificador/" target="_blank">Text Decoder</a>
+    </li>
+    <li>
+      <a href="https://ignite-reactjs-01-feed.pages.dev/" target="_blank">Ignite Feed</a>
     </li>
   </ul>
 </div>
