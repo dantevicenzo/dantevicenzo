@@ -52,7 +52,7 @@
       <a href="https://challenge-ignite-react-js-01-todo-list.pages.dev/" target="_blank">ToDo List</a>
     </li>
     <li>
-      <a href="https://challenge-ignite-react-js-02-coffee-delivery.pages.dev/" target="_blank">Coffee Delivery</a>
+      <a href="https://coffee-delivery.pages.dev/" target="_blank">Coffee Delivery</a>
     </li>
   </ul>
 </div>
