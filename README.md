@@ -46,9 +46,6 @@
       <a href="https://dantevicenzo.github.io/oracle-challenge-decodificador/" target="_blank">Text Decoder</a>
     </li>
     <li>
-      <a href="https://ignite-reactjs-01-feed.pages.dev/" target="_blank">Ignite Feed</a>
-    </li>
-    <li>
       <a href="https://todo-list-7wc.pages.dev/" target="_blank">ToDo List</a>
     </li>
     <li>
