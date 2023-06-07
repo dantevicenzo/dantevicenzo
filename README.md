@@ -54,6 +54,9 @@
     <li>
       <a href="https://coffee-delivery.pages.dev/" target="_blank">Coffee Delivery</a>
     </li>
+    <li>
+      <a href="https://github-blog-prod.pages.dev/" target="_blank">Github Blog</a>
+    </li>
   </ul>
 </div>
 
