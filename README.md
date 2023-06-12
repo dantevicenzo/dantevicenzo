@@ -64,6 +64,7 @@
     <li>Willing to research</li>
     <li>Problem-solver</li>
     <li>Project management-like characteristics</li>
+    <li>High fidelity layout from figma to code</li>
   </ul>
 </div>
 
