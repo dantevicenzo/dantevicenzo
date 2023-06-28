@@ -54,6 +54,9 @@
     <li>
       <a href="https://github-blog-prod.pages.dev/" target="_blank">Github Blog</a>
     </li>
+    <li>
+      <a href="https://ignite-shop-fawn.vercel.app/" target="_blank">Ignite Shop</a>
+    </li>
   </ul>
 </div>
 
