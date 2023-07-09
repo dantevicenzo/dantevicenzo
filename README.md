@@ -57,6 +57,9 @@
     <li>
       <a href="https://ignite-shop-fawn.vercel.app/" target="_blank">Ignite Shop</a>
     </li>
+    <li>
+      <a href="https://alura-geek-taupe.vercel.app/" target="_blank">Alura Geek</a>
+    </li>
   </ul>
 </div>
 
