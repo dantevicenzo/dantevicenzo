@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Dante Vicenzo 😎	</h1>
 </br>
 </br>
-<h3 align=""> I'm a front-end developer specialized in React.</h3>
+<h3 align=""> I'm a software developer specialized in Typescript.</h3>
 <h3 align=""> My goal as a professional is to provide fast developing, cutting-edge technologies, and innovation in all my projects.</h3>
 
 <div id="header" align="center">
