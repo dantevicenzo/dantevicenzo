@@ -60,6 +60,9 @@
     <li>
       <a href="https://alura-geek-taupe.vercel.app/" target="_blank">Alura Geek</a>
     </li>
+    <li>
+      <a href="https://alura-flix-snowy.vercel.app/" target="_blank">Alura Flix</a>
+    </li>
   </ul>
 </div>
 
