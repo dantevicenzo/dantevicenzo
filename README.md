@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Dante Vicenzo 😎	</h1>
 </br>
 </br>
-<h3 align=""> I'm a software developer specialized in Typescript.</h3>
+<h3 align=""> I'm a full stack software developer.</h3>
 <h3 align=""> My goal as a professional is to provide fast developing, cutting-edge technologies, and innovation in all my projects.</h3>
 
 <div id="header" align="center">
@@ -12,7 +12,7 @@
 </br>
 
 <div id="badges">
-  <h4>:mag:	You can find me in:</h4>
+  <h4>:mag:	You can find me on:</h4>
   
   <a href="https://www.linkedin.com/in/dantevicenzo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,7 +40,7 @@
   </div>
 <div>
 <div id="my-projects">
-  <h4>⭐ Here are some projects that I've worked on:</h4>
+  <h4>💻 Here are some front-end projects that I've worked on:</h4>
   <ul>
     <li>
       <a href="https://dantevicenzo.github.io/oracle-challenge-decodificador/" target="_blank">Text Decoder</a>
@@ -62,6 +62,13 @@
     </li>
     <li>
       <a href="https://alura-flix-snowy.vercel.app/" target="_blank">Alura Flix</a>
+    </li>
+  </ul>
+
+  <h4>🏢 Here are some back-end projects that I've worked on:</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/dantevicenzo/cubos-bank-api/" target="_blank">Cubos Bank</a>
     </li>
   </ul>
 </div>
